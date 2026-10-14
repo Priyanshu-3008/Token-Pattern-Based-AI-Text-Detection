@@ -1,6 +1,4 @@
 """
-CP219 Project 1 - Is a document written by a human (A) or a machine (B)?
-
 Each document is a list of integer token IDs (the words are hidden).
 This script trains a three-level stacked model and writes submission.csv.
 
