@@ -1,6 +1,6 @@
 # Human vs Machine Text Detection
 
-A machine-learning project that classifies tokenized documents as **human-written (A)** or **machine-generated (B)**. The project was originally developed for a team-based machine-learning competition.
+A machine-learning project that classifies tokenized documents as **human-written (A)** or **machine-generated (B)**. 
 
 ## Project overview
 
