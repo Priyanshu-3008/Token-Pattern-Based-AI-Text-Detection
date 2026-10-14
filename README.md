@@ -78,7 +78,6 @@ data/
 
 Each line should be a JSON object. The training records must contain `id`, `text` (a list of token IDs), and `label` (`A` for human-written or `B` for machine-generated). Test records must contain `id` and `text`.
 
-**The dataset is not included in this repository.** Use only data you are authorized to access and redistribute. The original competition rules restricted redistribution of its dataset. Do not upload course-provided or dataset unless you have permission to redistribute it.
 
 ## How to run
 
